@@ -814,6 +814,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [StackBlitz](https://stackblitz.com/) : Instant Dev environments with support of nodejs and npm packages.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 - [PHPize.online](https://phpize.online/): Online PHP compiler with SQL support.
+- [EDA Playground](https://www.edaplayground.com/) - Online IDE for hardware description languages (HDL)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
