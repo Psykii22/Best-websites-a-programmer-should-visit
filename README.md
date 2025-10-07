@@ -801,6 +801,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [CodePad](https://codepad.remoteinterview.io) : Code editor to try, test and run 25+ languages
 - [Coder](https://coder.com) : A Web-based development environment using Visual Studio Code as a code editor
 - [Codesandbox.io](https://codesandbox.io) : CodeSandbox makes it easier to create, share, and reuse React projects with others.
+- [EDA Playground](https://www.edaplayground.com/) - Online IDE for hardware description languages (HDL)
 - [Github Codespaces](https://github.com/codespaces) : Integrated cloud-based IDE directly to your browser.
 - [Github Gist](https://gist.github.com) : Instantly share code, notes, and snippets.
 - [Godbolt.org](https://godbolt.org) : Excellent tool for exploring the assembly output of different compilers with and without optimization.
@@ -814,7 +815,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [StackBlitz](https://stackblitz.com/) : Instant Dev environments with support of nodejs and npm packages.
 - [Wandbox](https://wandbox.org/): Online compiler with bleeding edge C++ and 40 other languages.
 - [PHPize.online](https://phpize.online/): Online PHP compiler with SQL support.
-- [EDA Playground](https://www.edaplayground.com/) - Online IDE for hardware description languages (HDL)
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
